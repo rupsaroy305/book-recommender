@@ -6,12 +6,12 @@ https://book--recommender.streamlit.app/
 
 ## Features
 
-- 📖 Search/select a book and explore recommendations
-- 🤖 ML-based book recommendations using collaborative filtering
-- 🔍 Similarity-based recommendation engine using cosine similarity
-- 🖼️ Book cover display for recommended books
-- 🔗 Direct book discovery through Goodreads links
-- 🎨 Interactive pastel-themed Streamlit interface
+-  Search/select a book and explore recommendations
+-  ML-based book recommendations using collaborative filtering
+-  Similarity-based recommendation engine using cosine similarity
+-  Book cover display for recommended books
+-  Direct book discovery through Goodreads links
+-  Interactive Streamlit interface
 
 ##  Technologies Used
 
@@ -30,5 +30,3 @@ https://book--recommender.streamlit.app/
 4. Collaborative filtering
 5. Cosine similarity calculation
 6. Recommendation generation
-
-## 📂 Project Structure
